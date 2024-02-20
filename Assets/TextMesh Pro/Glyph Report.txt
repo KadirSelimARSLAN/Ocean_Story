@@ -1,0 +1,12 @@
+Font: Braah One  Style: Regular
+Point Size: 175   SP/PD Ratio: 1.7%
+
+Characters included: 97/97
+Missing characters: 0
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+
+Characters excluded from packing:
+----------------------------------------
